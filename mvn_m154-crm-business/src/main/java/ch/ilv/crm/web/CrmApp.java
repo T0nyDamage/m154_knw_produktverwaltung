@@ -1,7 +1,7 @@
 package ch.ilv.crm.web;
 
-import static io.javalin.apibuilder.ApiBuilder.post;
 import static io.javalin.apibuilder.ApiBuilder.get;
+import static io.javalin.apibuilder.ApiBuilder.post;
 
 import ch.ilv.crm.web.controller.CustomerController;
 import ch.ilv.crm.web.controller.ProductController;
